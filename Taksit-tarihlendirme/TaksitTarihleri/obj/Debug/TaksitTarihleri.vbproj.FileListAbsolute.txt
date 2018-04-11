@@ -1,0 +1,10 @@
+D:\Mutlu YALI\2016-2017 Bahar\NÖ\TaksitTarihleri\TaksitTarihleri\bin\Debug\TaksitTarihleri.exe.config
+D:\Mutlu YALI\2016-2017 Bahar\NÖ\TaksitTarihleri\TaksitTarihleri\bin\Debug\TaksitTarihleri.exe
+D:\Mutlu YALI\2016-2017 Bahar\NÖ\TaksitTarihleri\TaksitTarihleri\bin\Debug\TaksitTarihleri.pdb
+D:\Mutlu YALI\2016-2017 Bahar\NÖ\TaksitTarihleri\TaksitTarihleri\bin\Debug\TaksitTarihleri.xml
+D:\Mutlu YALI\2016-2017 Bahar\NÖ\TaksitTarihleri\TaksitTarihleri\obj\Debug\TaksitTarihleri.Form1.resources
+D:\Mutlu YALI\2016-2017 Bahar\NÖ\TaksitTarihleri\TaksitTarihleri\obj\Debug\TaksitTarihleri.Resources.resources
+D:\Mutlu YALI\2016-2017 Bahar\NÖ\TaksitTarihleri\TaksitTarihleri\obj\Debug\TaksitTarihleri.vbproj.GenerateResource.Cache
+D:\Mutlu YALI\2016-2017 Bahar\NÖ\TaksitTarihleri\TaksitTarihleri\obj\Debug\TaksitTarihleri.exe
+D:\Mutlu YALI\2016-2017 Bahar\NÖ\TaksitTarihleri\TaksitTarihleri\obj\Debug\TaksitTarihleri.xml
+D:\Mutlu YALI\2016-2017 Bahar\NÖ\TaksitTarihleri\TaksitTarihleri\obj\Debug\TaksitTarihleri.pdb
